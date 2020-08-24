@@ -1,7 +1,11 @@
 # Deputy Challenge
 
-Prerequiste
-PHP 7.3 and onward
+Prerequisite
+
+1. PHP 7.3 and onward
+2. Unix environment
+
+==
 
 Getting started
 
