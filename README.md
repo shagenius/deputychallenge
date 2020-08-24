@@ -1,5 +1,8 @@
 # Deputy Challenge
 
+Prerequiste
+PHP 7.3 and onward
+
 Getting started
 
 1. Git clone this repo https://github.com/shagenius/deputychallenge.git to your local repo
