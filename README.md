@@ -13,9 +13,9 @@ Getting started
 	- to test with different data set, update the class "User" or "Role" which are in the folder called "classes", User class holds all the users in the static variable 	$users and Role class holds all the roles in the static variable $roles.
 	calling and initialising the class UserRole: 
 		eg: 
-		$userRole = new UserRole();
-		$userRole->setRoles(Role::$roles);
-		$userRole->setUsers(User::$users);
+		- $userRole = new UserRole();
+		- $userRole->setRoles(Role::$roles);
+		- $userRole->setUsers(User::$users);
 	
 5. Running PHPUnit test
 	The test resides in the folder called "test"
